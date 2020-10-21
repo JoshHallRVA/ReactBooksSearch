@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.book-listing {
+  background: #eee;
+  border-bottom: 1px solid #282c34;
+  border-top: 1px solid #282c34;
+  padding: 1em;
+}
+
+.header {
+  background-color: green;
+  color: #fff;
+  min-height: 100px;
+  margin-bottom: 2em;
+}
+
+.header h1 {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+h3.intro {
+  text-align: center;
+  margin-bottom: 20px;
+}
