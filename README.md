@@ -2,7 +2,7 @@
 
 search app with google API
 
-deployed: https://dashboard.heroku.com/apps/immense-cove-16265
+deployed: https://still-gorge-75337.herokuapp.com/
 
 ### Overview
 
